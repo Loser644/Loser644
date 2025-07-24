@@ -33,6 +33,9 @@
 </p>
 
 ---
+## 🎮 My Python Mini Games
+
+- [🎯 Number Guessing Game with High Score](https://gist.github.com/Loser644/1d0862bf2c628a750fb3bb2864ecc200)
 
 ### 🌐 Let's Connect
 
