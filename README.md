@@ -28,10 +28,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">The GitHub stats is not good enough yet</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Loser644&show_icons=true&theme=radical" alt="Freak's GitHub stats" />
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loser644&show_icons=true&theme=radical" alt="Freak's GitHub stats" />
+  
+  <p align="center">The GitHub stats is not good enough yet</p>
 </p>
 -->
 ---
