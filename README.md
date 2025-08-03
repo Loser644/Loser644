@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Freak</h1>
 
 <p align="center">
-  🚀 Beginner | 💻 Coding Freak | 🤖 Future Bot Master | 🌐 Web Dev Explorer
+🚀 Beginner | 💻 Coding Freak | 🤖 Future Bot Master | 🌐 Web Dev Explorer | 📚 DSA Journey Begins
 </p>
 
 ---
