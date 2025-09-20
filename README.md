@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Freak</h1>
 
 <p align="center">
-🚀 Beginner | 💻 Coding Freak | 🤖 Future Bot Master | 🌐 Web Dev Explorer | 📚 DSA Journey Begins
+🚀 Full-Stack Web Dev | 💻 Coding Freak | 🤖 AI Aspirant | 🌐 Web Dev Enthusiast | 📚 📚 Java DSA Adventurer
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🔭 I’m currently learning **Node.js** in my web-dev journey  
-- 🤖 Building my **first Telegram bot** with Node.js  
+- 🔭 Learning Data Structures & Algorithms in Java as part of my growth journey
+- 🤖 Currently working on a real-time chat application leveraging Node.js (Express) and Python (FastAPI)
 - 🌱 Future plans: dive into **AI**, **Machine Learning**, **Rust**, and **Assembly**  
 - 🧠 I’m passionate about turning caffeine into code  
 - ⚡ Fun fact: I like bugs... when they’re fixed 🐞
@@ -19,8 +19,11 @@
 ### 🛠️ Technologies I Use
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
@@ -44,5 +47,5 @@
 ### 🌐 Let's Connect
 
 - ✉️ Reach me via issues or discussions!
-- 🧑‍💻 Check out my [latest project](https://warchild.netlify.app/)
+- 🧑‍💻 Check out my [latest project](https://github.com/Loser644/ChatApp)
 - this currently in building fase
